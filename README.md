@@ -1,4 +1,4 @@
-# hello-world
+# hello-dma
 Just another repository
 hi humans!
 #ifndef _ADMA_H_INCLUDE
